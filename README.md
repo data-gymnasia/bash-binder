@@ -2,4 +2,4 @@
 
 A bash kernel for Data Gymnasia
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sswatson/bash-binder/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/data-gymnasia/bash-binder/master)
